@@ -1,7 +1,7 @@
 # Occluded Text Detection and Recognition in the Wild
 
 
-Official implementation of Occluded text detection and recognition in the wild paper | [Paper](https://ieeexplore.ieee.org/abstract/document/9867061/) | [Pretrained Model]() | [Dataset]() | [PPT]()
+Official implementation of Occluded text detection and recognition in the wild paper | [Paper](https://ieeexplore.ieee.org/abstract/document/9867061/) | [Pretrained Model]() | [Dataset](https://www.dropbox.com/scl/fi/vgool6x0wx2pcbp0czc9n/OCTT.zip?rlkey=wv1vlndavxm8k2ion1c70iuhq&dl=0) | [PPT]()
 
 **[Zobeir Raisi](https://github.com/zobeirraisi) and John Zelek**
 
