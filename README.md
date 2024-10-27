@@ -42,7 +42,7 @@ Download the dataset from the following link:
 
 ## Overview
 <p align="center">
-  <img width="350" alt="teaser" src="./figs/architecture.png">
+  <img width="350" alt="teaser" src="architecture.png">
   <br>
   <b>Figure. Overall architecture</b>
 </p>
