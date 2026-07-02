@@ -3,7 +3,7 @@
 Official repository for the paper **"Occluded Text Detection and Recognition in the Wild"**, introducing the **OCTT** dataset — an occluded, character-level annotated version of Total-Text for benchmarking scene text detection, recognition, and spotting under occlusion.
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE%20Xplore-blue)](https://ieeexplore.ieee.org/abstract/document/9867061/)
-[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.TODO)
+[![Dataset](https://img.shields.io/badge/Dataset-Zenodo-blue)](https://doi.org/10.5281/zenodo.21124656)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **[Zobeir Raisi](https://github.com/zobeirraisi)** and **John Zelek**
@@ -31,7 +31,7 @@ OCTT is built on top of [Total-Text](https://github.com/cs-chan/Total-Text-Datas
 - **Recognition** — cropped word instances, occluded and original, with LMDB packaging scripts (`recognition/total-text-cropped/`)
 
 Download:
-- [Zenodo](https://doi.org/10.5281/zenodo.TODO) (recommended, versioned & citable)
+- [Zenodo](https://doi.org/10.5281/zenodo.21124656) (recommended, versioned & citable)
 - [Dropbox mirror](https://www.dropbox.com/scl/fi/vgool6x0wx2pcbp0czc9n/OCTT.zip?rlkey=wv1vlndavxm8k2ion1c70iuhq&dl=0)
 
 Detection annotations follow the original Total-Text annotation format.
